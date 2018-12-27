@@ -1,4 +1,4 @@
-# learning Ruby
+# Learning Ruby
 # Download and install latest Ruby + development kit
 # comment with #, no need for any signs at the end of lines
 # First command: Put String (puts) on screen
