@@ -75,3 +75,5 @@ my_square = Square.new(10)
 my_square.side_length = 5
 puts "\n#{my_square}"
 puts my_square.draw
+
+# End of course 

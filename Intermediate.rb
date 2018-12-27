@@ -76,4 +76,4 @@ end
 print_output = greeting("Saber", "Nikkho")
 puts print_output.upcase
 
-# End of Ruby Intermediate section
+# End of Ruby Intermediate Section
